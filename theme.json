@@ -4,8 +4,8 @@
     "color": {
       "gray": {
         "0": {
-          "value": "#100000",
-       "type": "color"
+          "value": "#000000",
+          "type": "color"
         },
         "10": {
           "value": "#1a1a1a",
